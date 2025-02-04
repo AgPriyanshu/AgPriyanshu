@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-With a solid 4 years of wrangling both code and infrastructure in the trenches of web development and DevOps, I’ve somehow ascended to the illustrious title of SDE-3 at Aereo. Along the way, I’ve mastered the art of navigating complex workflows, taming unpredictable builds, and making “it works on my machine” a thing of the past. All in a day's work for someone who totally didn’t sign up to fix everyone else’s code and make magic happen on demand!
+I’ve spent four years working on both code and infrastructure in web development and DevOps, and I’m now an SDE-3 at Aereo. During that time, I’ve tackled tricky builds, streamlined complex workflows, and helped make “it works on my machine” a rarity. I still have a lot to learn, and I’m excited to push myself further and take on new challenges every day.
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [priyanshu81212@gmail.com](mailto:priyanshu81212@gmail.com)
