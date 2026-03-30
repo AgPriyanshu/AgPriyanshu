@@ -1,40 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanshu Agarwal
-=========================================================================================================================================
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJj41mQ6d5Q9L1m8/giphy.gif" width="30"> I'm Priyanshu Agarwal
+</h1>
 
-Full Stack Engineer
--------------------
+<h3 align="center">Senior Software Development Engineer (SDE-3) | Cloud, Full-Stack & AI Architect</h3>
 
-I’ve spent four years working on both code and infrastructure in web development and DevOps, and I’m now an SDE-3 at Aereo. During that time, I’ve tackled tricky builds, streamlined complex workflows, and helped make “it works on my machine” a rarity. I still have a lot to learn, and I’m excited to push myself further and take on new challenges every day.
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-agarwal-17b806161/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:priyanshu81212@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://www.instagram.com/u._.priyansh/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-*   🌍  I'm based in Bengaluru
-*   ✉️  You can contact me at [priyanshu81212@gmail.com](mailto:priyanshu81212@gmail.com)
-## Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-                    </p>
-                    
-### Socials
+---
 
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://www.github.com/AgPriyanshu" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="http://www.instagram.com/u._.priyansh/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/priyanshu-agarwal-17b806161/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a></p>
+I’m a **Senior Software Development Engineer** with over 4 years of experience specializing in highly scalable cloud infrastructure, full-stack web applications, and AI integrations. I currently work at **Aereo**, where I architect complex geospatial analytics pipelines, port massive AWS workloads to Kubernetes, and build agentic AI chatbots using RAG and LangGraph.
+
+When I'm not bringing “it works on my machine” into production, I'm relentlessly optimizing CI/CD workflows, cutting cloud costs by 90%, or experimenting with LLMs. 
+
+- 🌍 Based in **Bengaluru, India**
+- 🤝 Open to collaborating on **Open Source, ML ops, and scalable system design**
+- 📜 **Patent Holder:** Co-invented a core architecture system for a drone-based geospatial analytics platform.
+
+---
+
+## 🚀 Featured Work & Architecture 
+
+If you want to see how I write code and design systems at scale, check out my flagship **Atlas Platform**—an enterprise-grade modular monolith built for heavy geospatial data and real-time streams.
+
+### 🌐 [Atlas Platform Web Client](https://github.com/AgPriyanshu/atlas-platform-web)
+A high-performance React/Vite frontend orchestrating state across multiple micro-feature domains. Features aggressive React Query caching, MobX state management, Server-Sent Events (SSE) for real-time synchronization, and GPU-accelerated **MapLibre GL / Terra Draw** vector rendering for heavy GIS datasets. 
+
+### ⚙️ [Atlas Platform Services (Backend)](https://github.com/AgPriyanshu/atlas-platform-services)
+An event-driven modular monolithic architecture orchestrating Python/Django micro-apps. Leverages **Celery/Redis** for pushing background LLM and data processing workflows, **PostGIS** for complex geospatial bounding-box queries, and **Daphne/Channels** for low-latency websockets. Fully containerized with Helm charts for Kubernetes deployments.
+
+---
+
+## 🛠️ Languages, Frameworks & Infrastructure
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br>Terraform
+    </td>
+  </tr>
+</table>
+
+**AI & Machine Learning:** PyTorch, FastAI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgPriyanshu&show_icons=true&theme=transparent&hide_border=true&title_color=1F8FFF&text_color=A1A1AA&icon_color=1F8FFF" alt="Priyanshu's GitHub Stats" />
+</p>
