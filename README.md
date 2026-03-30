@@ -33,13 +33,13 @@ When I'm not bringing “it works on my machine” into production, I'm relentle
 
 ## 🚀 Featured Work & Architecture 
 
-If you want to see how I write code and design systems at scale, check out my flagship **Atlas Platform**—an enterprise-grade modular monolith built for heavy geospatial data and real-time streams.
+If you want to see how I write code and design systems at scale, check out my flagship **Atlas Platform**—an enterprise-grade modular monolith built to handle heavy data processing, decoupled background jobs, and real-time event streams.
 
 ### 🌐 [Atlas Platform Web Client](https://github.com/AgPriyanshu/atlas-platform-web)
-A high-performance React/Vite frontend orchestrating state across multiple micro-feature domains. Features aggressive React Query caching, MobX state management, Server-Sent Events (SSE) for real-time synchronization, and GPU-accelerated **MapLibre GL / Terra Draw** vector rendering for heavy GIS datasets. 
+A high-performance React/Vite frontend orchestrating state across multiple micro-feature domains. Built for scale using aggressive React Query caching to minimize network waterfalls, fine-grained domain state management (MobX) to prevent UI blocking, and Server-Sent Events (SSE) for lightning-fast real-time synchronization. Capable of smoothly rendering extremely heavy, complex datasets directly in the DOM.
 
 ### ⚙️ [Atlas Platform Services (Backend)](https://github.com/AgPriyanshu/atlas-platform-services)
-An event-driven modular monolithic architecture orchestrating Python/Django micro-apps. Leverages **Celery/Redis** for pushing background LLM and data processing workflows, **PostGIS** for complex geospatial bounding-box queries, and **Daphne/Channels** for low-latency websockets. Fully containerized with Helm charts for Kubernetes deployments.
+An event-driven modular monolithic architecture orchestrating 10+ Python/Django micro-apps. Engineered for high concurrency by aggressively offloading heavy compute tasks (like agentic LLM inference and massive batch processing) to a **Celery/Redis** worker farm. Features an integrated **Daphne/Channels** layer for low-latency websockets and is deployed entirely on **Kubernetes (K8s)** using custom Helm charts for seamless auto-scaling.
 
 ---
 
