@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJj41mQ6d5Q9L1m8/giphy.gif" width="30"> I'm Priyanshu Agarwal
+  Hi there 👋!
+  <br/>I'm Priyanshu Agarwal
 </h1>
 
 <h3 align="center">Senior Software Development Engineer (SDE-3) | Cloud, Full-Stack & AI Architect</h3>
@@ -20,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Development Engineer** with over 4 years of experience specializing in highly scalable cloud infrastructure, full-stack web applications, and AI integrations. I currently work at **Aereo**, where I architect complex geospatial analytics pipelines, port massive AWS workloads to Kubernetes, and build agentic AI chatbots using RAG and LangGraph.
+I’m a **Senior Software Development Engineer** with over 5+ years of experience specializing in highly scalable cloud infrastructure, full-stack web applications, and AI integrations. I currently work at **Aereo**, where I architect complex geospatial analytics pipelines, port massive AWS workloads to Kubernetes, and build agentic AI chatbots using RAG and LangGraph.
 
 When I'm not bringing “it works on my machine” into production, I'm relentlessly optimizing CI/CD workflows, cutting cloud costs by 90%, or experimenting with LLMs. 
 
@@ -88,11 +89,3 @@ An event-driven modular monolithic architecture orchestrating Python/Django micr
 </table>
 
 **AI & Machine Learning:** PyTorch, FastAI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgPriyanshu&show_icons=true&theme=transparent&hide_border=true&title_color=1F8FFF&text_color=A1A1AA&icon_color=1F8FFF" alt="Priyanshu's GitHub Stats" />
-</p>
